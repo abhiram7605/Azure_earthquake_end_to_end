@@ -1,4 +1,4 @@
-# **Scalable Earthquake Data Engineering Pipeline on Azure**
+# **Building a Scalable and Real-Time Earthquake Data Engineering Pipeline on Azure**
 
 ## **Project Overview**
 This project focuses on designing and implementing a comprehensive data engineering pipeline to process and analyze real-time earthquake data. By leveraging Azure’s robust cloud services, the solution provides meaningful insights into global seismic activity through an interactive Power BI dashboard.
